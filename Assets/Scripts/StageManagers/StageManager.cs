@@ -1,7 +1,5 @@
 using PlayerSystem;
-using UnityEditor.SearchService;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using GameManagers;
 
 namespace StageManagers
